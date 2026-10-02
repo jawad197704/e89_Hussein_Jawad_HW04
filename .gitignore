@@ -3,3 +3,4 @@ handwritten_digits/*.png
 handwritten_digits/*.jpg
 handwritten_digits/*.jpeg
 *.pth
+outputs/
